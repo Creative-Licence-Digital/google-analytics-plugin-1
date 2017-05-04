@@ -51,7 +51,7 @@
 
   <platform name="android">
     <!-- fix anoying compilation issue conflict with the streethawk plugin -->
-    <framework src="com.google.android.gms:play-services-analytics:9.6.1" />
+    <framework src="com.google.android.gms:play-services-analytics:10.2.1" />
 
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="UniversalAnalytics">
